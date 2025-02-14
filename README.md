@@ -43,4 +43,7 @@ IoT 개발자 자료구조와 알고리즘(코딩테스트) 리포지토리 2025
 - 자료구조
     - 선형 리스트 : [노트북](./day02/da02_Linear_list.ipynb)
     - 연결 리스트 : [노트북](./day02/da04_linked_list.ipynb)
+
+## 선형 리스트 일반 구현
+(./day02/da03_linear_list.py)
     
